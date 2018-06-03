@@ -37,3 +37,4 @@ data class Repo(
         @field:SerializedName("forks_count") val forks: Int,
         @field:SerializedName("language") val language: String?
 )
+
