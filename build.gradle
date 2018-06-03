@@ -46,11 +46,11 @@ ext {
     compileSdkVersion = 27
     minSdkVersion = 15
     targetSdkVersion = 27
-    supportLibVersion = "27.1.0"
-    constraintLayoutVersion = "1.0.2"
+    supportLibVersion = "27.1.1"
+    constraintLayoutVersion = "1.1.0"
     archComponentsVersion = "1.1.1"
-    roomVersion = "1.1.0-beta1"
-    pagingVersion = "1.0.0-beta1"
+    roomVersion = "1.1.1-rc1"
+    pagingVersion = "1.0.0"
     retrofitVersion = "2.3.0"
     okhttpLoggingInterceptorVersion = "3.9.0"
 
